@@ -2,7 +2,12 @@
 Interactive Number Guessing Game in Python
 
 
-### **Welcome to the Number Guessing Game! This is a fun and interactive game where you'll try to guess a number between 1 and 100.**
+Welcome to the Number Guessing Game! This is a fun and interactive game where you'll try to guess a number between 1 and 100.
+
+## **Working**
+![image](https://github.com/sarvesh-2109/Number_Quest/assets/113255836/4406b164-9cf1-4e5d-8932-39e3d9414a42)
+
+
 
 ## **Game Rules:**
 1. You'll be given a certain number of attempts to guess the correct number.
