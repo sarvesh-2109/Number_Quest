@@ -32,7 +32,6 @@ def game():
     print("Welcome to the Number Guessing Game!")
     print("I'm thinking of a answer between 1 and 100.")
     answer = random.randint(1, 100)
-    print(f"Pssst, the correct answer is: {answer}")
 
     attempts = set_difficulty()
 
